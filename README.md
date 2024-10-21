@@ -1,7 +1,7 @@
 # Business-Insight-360
 I recently completed a Power BI Project in Codebasics Bootcamp and This is my presentation for the "AtliQ Hardware Business Insights 360" project.
 
-![Uploading Home Page.png…]()
+![Home Page](https://github.com/user-attachments/assets/a3849790-613e-49c1-bbb5-92a31ffcdbc5)
 
 ⛳Project Objective: 
 I created a project based on AtliQ Hardware, a fast-growing consumer electronics company struggling with Excel-based analytics. Their reliance on outdated tools led to significant losses in Latin America due to ineffective insights. 
