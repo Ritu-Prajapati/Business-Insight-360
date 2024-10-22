@@ -1,5 +1,5 @@
 # Business-Insight-360
-I recently completed a Power BI Project in Codebasics Bootcamp and This is my presentation for the "AtliQ Hardware Business Insights 360" project.
+I recently completed a Power BI Project in Codebasics Bootcamp - "AtliQ Hardware Business Insights 360" project.
 
 ![Home Page](https://github.com/user-attachments/assets/39ab4e64-34ab-490d-9051-244e37a325b1)
 
