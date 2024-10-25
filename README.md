@@ -27,8 +27,11 @@ Provides market share comparison (AtliQ vs competitors) and year-over-year trend
 
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀
 ➡️ SQL
+
 ➡️ PowerBi Desktop
+
 ➡️ Excel
+
 ➡️ DAX language
 
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗣𝗼𝘄𝗲𝗿𝗕𝗜 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀
