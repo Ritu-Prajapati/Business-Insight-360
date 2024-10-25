@@ -25,3 +25,44 @@ Monitors forecast accuracy, net/absolute error, and key metrics by customer. Sho
 **Executive View**:  
 Provides market share comparison (AtliQ vs competitors) and year-over-year trends. Includes revenue analysis by channel and region.
 
+𝗟𝗲𝗮𝗿𝗻𝘁 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀
+➡️ SQL
+➡️ PowerBi Desktop
+➡️ Excel
+➡️ DAX language
+
+𝗟𝗲𝗮𝗿𝗻𝘁 𝗣𝗼𝘄𝗲𝗿𝗕𝗜 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀
+
+➡️ What are all the questions should be asked before staring the project
+➡️ Creating calculated columns
+➡️ Creating measure using DAX language
+➡️ Data modeling
+➡️ Using Bookmarks to switch between two visuals
+➡️ Page navigation with buttons
+➡️ Using divide function to prevent zero division errors
+➡️ Creating date table using m language
+➡️ Dynamic titles based on the applied filters
+➡️ Using KPI indicators
+➡️ Conditional formatting the values in visuals using icons or background color
+➡️ Publishing reports to PowerBi services
+➡️ Setting up personal gateway to set up the auto refresh of data
+
+
+𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐫𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐞𝐫𝐦𝐬
+
+➡️ Gross price
+➡️ Pre-invoice deductions
+➡️ Post-Invoice deductions
+➡️ Net Invoice sale
+➡️ Gross Margin
+➡️ Net sales
+➡️ Net profit
+➡️ COGC - cost of goods sold
+➡️ YTD - Year to Date
+➡️ YTG - Year to Go
+➡️ Direct
+➡️ Retailer
+➡️ Distributors
+➡️ Consumer
+
+
