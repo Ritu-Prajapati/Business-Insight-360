@@ -33,36 +33,36 @@ Provides market share comparison (AtliQ vs competitors) and year-over-year trend
 
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗣𝗼𝘄𝗲𝗿𝗕𝗜 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀
 
-➡️ What are all the questions should be asked before staring the project
-➡️ Creating calculated columns
-➡️ Creating measure using DAX language
-➡️ Data modeling
-➡️ Using Bookmarks to switch between two visuals
-➡️ Page navigation with buttons
-➡️ Using divide function to prevent zero division errors
-➡️ Creating date table using m language
-➡️ Dynamic titles based on the applied filters
-➡️ Using KPI indicators
-➡️ Conditional formatting the values in visuals using icons or background color
-➡️ Publishing reports to PowerBi services
-➡️ Setting up personal gateway to set up the auto refresh of data
+➡️ What are all the questions should be asked before staring the project <br />
+➡️ Creating calculated columns<br />
+➡️ Creating measure using DAX language<br />
+➡️ Data modeling<br />
+➡️ Using Bookmarks to switch between two visuals<br />
+➡️ Page navigation with buttons<br />
+➡️ Using divide function to prevent zero division errors<br />
+➡️ Creating date table using m language<br />
+➡️ Dynamic titles based on the applied filters<br />
+➡️ Using KPI indicators<br />
+➡️ Conditional formatting the values in visuals using icons or background color<br />
+➡️ Publishing reports to PowerBi services<br />
+➡️ Setting up personal gateway to set up the auto refresh of data<br />
 
 
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐫𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐞𝐫𝐦𝐬
 
-➡️ Gross price
-➡️ Pre-invoice deductions
-➡️ Post-Invoice deductions
-➡️ Net Invoice sale
-➡️ Gross Margin
-➡️ Net sales
-➡️ Net profit
-➡️ COGC - cost of goods sold
-➡️ YTD - Year to Date
-➡️ YTG - Year to Go
-➡️ Direct
-➡️ Retailer
-➡️ Distributors
-➡️ Consumer
+➡️ Gross price<br />
+➡️ Pre-invoice deductions<br />
+➡️ Post-Invoice deductions<br />
+➡️ Net Invoice sale<br />
+➡️ Gross Margin<br />
+➡️ Net sales<br />
+➡️ Net profit<br />
+➡️ COGC - cost of goods sold<br />
+➡️ YTD - Year to Date<br />
+➡️ YTG - Year to Go<br />
+➡️ Direct<br />
+➡️ Retailer<br />
+➡️ Distributors<br />
+➡️ Consumer<br />
 
 
