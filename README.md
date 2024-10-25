@@ -26,13 +26,10 @@ Monitors forecast accuracy, net/absolute error, and key metrics by customer. Sho
 Provides market share comparison (AtliQ vs competitors) and year-over-year trends. Includes revenue analysis by channel and region.
 
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀
-➡️ SQL
-
-➡️ PowerBi Desktop
-
-➡️ Excel
-
-➡️ DAX language
+➡️ SQL <br />
+➡️ PowerBi Desktop <br />
+➡️ Excel <br />
+➡️ DAX language <br />
 
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗣𝗼𝘄𝗲𝗿𝗕𝗜 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀
 
