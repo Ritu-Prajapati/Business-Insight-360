@@ -65,4 +65,12 @@ Provides market share comparison (AtliQ vs competitors) and year-over-year trend
 ➡️ Distributors<br />
 ➡️ Consumer<br />
 
+AtliQ platform & sales channel:
+➡️Sales Channel: <br />
+⚫ Retailer: Major chains and online platforms <br />
+⚫ Direct: Branded stores and ecommerce sites <br />
+⚫ Distribution: Third party like Neptune in South Korea & China <br />
 
+➡️Platform : <br />
+⚫ Brick & Mortar: Physical retail stores eg Croma & Best Buy <br />
+⚫ Ecommerce: eg., Amazing & flipkart <br />
